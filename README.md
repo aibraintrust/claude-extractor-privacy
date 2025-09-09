@@ -1,11 +1,16 @@
-# Claude Chat Extractor – Privacy Policy
+# Claude & ChatGPT Chat Extractors – Privacy Policy
 
-This repository hosts the privacy policy for the Claude Chat Extractor Chrome extension.
+This repository hosts the privacy policy for the Claude Chat Extractor and the ChatGPT Chat Extractor Chrome extensions.
 
 ## Privacy Policy
 
-Claude Chat Extractor does not collect, transmit, or share any personal or sensitive user data.
+These extensions do not collect, transmit, or share any personal or sensitive user data.
 
-All processing of Claude.ai conversations happens locally within your browser. The extension’s sole function is to allow you to export your Claude.ai chat content as a JSON file. No information is sent to external servers or third parties.
+All processing of conversations happens locally within your browser. The sole function of these tools is to allow you to export your Claude.ai or ChatGPT conversations as JSON files. No information is sent to external servers or third parties.
 
-If you have questions about this policy, you can contact us at [hello@aibraintrust.io](mailto:hello@aibraintrust.io).
+## Scope
+- **Claude Chat Extractor** – [Chrome Web Store link](https://chrome.google.com/webstore/detail/epnnpfbdceakcclpkomigipckdkialme)  
+- **ChatGPT Chat Extractor** – (pending publication)
+
+## Contact
+hello@aibraintrust.io

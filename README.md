@@ -10,7 +10,8 @@ All processing of conversations happens locally within your browser. The sole fu
 
 ## Scope
 - **Claude Chat Extractor** – [Chrome Web Store link](https://chrome.google.com/webstore/detail/epnnpfbdceakcclpkomigipckdkialme)  
-- **ChatGPT Chat Extractor** – (pending publication)
+- **ChatGPT Chat Extractor** – ([Chrome Web Store link](https://chromewebstore.google.com/detail/dcmhkenjledjnmggfgmogpkeflhohmbb?utm_source=item-share-cb))
+- **Lindy Chat Extractor** - Pending publication
 
 ## Contact
 hello@aibraintrust.io
